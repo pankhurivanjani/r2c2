@@ -3,7 +3,7 @@ Existing underwater/surface vehicles with ROS support
 [https://www.dropbox.com/sh/un5ae4scdopfmb2/AACLBbrmz2sAAVxiQnTQ7ZeUa?dl=0](https://www.dropbox.com/sh/un5ae4scdopfmb2/AACLBbrmz2sAAVxiQnTQ7ZeUa?dl=0
 )
 
-img
+
 
 |        **Research Paper**        |           **Comments**           |
 |:----------------------:|:----------------------:|
