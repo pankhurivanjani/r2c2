@@ -37,11 +37,27 @@ ROS to ROS2 Navigation stack comparison
 
 ROS2 goals (Foxy) (Can we use something?)
 ● Support for navigating multi-story buildings 
+
 ● Behavior tree plugin support 
+
 ● Add support for map zones  
+
 ● Traffic lanes and routes 
+
 ● Docking support 
+
 ● Voxel layer support 
+
 ● Support multiple sensor inputs 
+
 ● Support for changing maps 
+
 ● Waypoint follower demo 
+
+* Ensure a stable, functional SLAM implementation is available for ROS 2 (outside the nav stack)
+
+● Ensure a stable, functional IMU/Odom fusing solution (eg [Robot Localization] (https://github.com/cra-ros-pkg/robot_localization)) is available for ROS2. (outside the nav stack)
+
+● Provide an option/example for launching nav2 using composed nodes 
+
+● Add Auto-localization Action server #1254
