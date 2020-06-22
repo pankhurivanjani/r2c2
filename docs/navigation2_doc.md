@@ -22,7 +22,7 @@ ROS to ROS2 Navigation stack comparison
 8. nav_core: Ported as nav2_core with updates to interfaces
 9. costmap_2d: Ported as nav2_costmap_2d
 
-<image1>
+![nav1](img/nav1.png)
 
 * New packages:
 1. nav2_bt_navigator: replaces move_base state machine
@@ -33,7 +33,7 @@ ROS to ROS2 Navigation stack comparison
 6. nav2_experimental: Experimental (and incomplete) work for deep reinforement learning controllers
 7. navigation2_behavior_trees: wrappers for the behavior tree library to call ROS action servers
 
-<image2?
+![nav2](img/nav2.png)
 
 ROS2 goals (Foxy) (Can we use something?)
 ● Support for navigating multi-story buildings 
@@ -62,7 +62,6 @@ ROS2 goals (Foxy) (Can we use something?)
 
 ● Add Auto-localization Action server #1254
 
-<image?>
 
 # Behavior trees - A basic introduction
 
@@ -96,7 +95,7 @@ Since, ROS2 Navigation2 is based on behaviour tree implementation, it is necessa
   
 #  Ros2 navigation stack- what parameters it can take? What else can we put?
 
-<image4>
+![image](img/image.png)
   
 System Tests:
 
@@ -178,6 +177,9 @@ Sensor, actuator messages
 **(STVL) Using an External Costmap Plugin**
 
 ● STVL (another 3D perception plugin similar to the Voxel Layeris), a demonstrative pluginlib plugin and the same process can be followed for other costmap plugins as well as plugin planners, controllers, and recoveries.
+
+![nav3](img/nav3.png)
+
 
 **Conclusion**
 
